@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="url_notice">여기에 URL을 입력하세요.</string>
+</resources>
